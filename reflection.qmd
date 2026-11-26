@@ -1,0 +1,112 @@
+---
+title: "Data Science Experience Report"
+author: "Your Name"
+course: "INFO XXX – Course Title"
+instructor: "Professor Chism"
+date: "YYYY-MM-DD"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## 1. Context & Motivation
+
+Why did you choose this experience? What drew you to it specifically?
+
+What did you expect going into this experience? What were you hoping to learn, confirm, or be exposed to?
+
+---
+
+## 2. Technical & Conceptual Learning
+
+Describe what you actually learned from this experience. This can include, but is not limited to:
+
+- Data collection or data quality
+- Data cleaning or preprocessing
+- Modeling approaches
+- Feature engineering
+- Visualization
+- Evaluation metrics
+- Tools, platforms, or workflows
+- Ethics, bias, or interpretability
+
+Be specific. Avoid general statements like “I learned a lot about machine learning.”
+
+### Course Connection (Required)
+
+Explicitly connect this experience to **at least one** concept from this course. For example:
+
+- A statistical method  
+- A model type  
+- A visualization principle  
+- A data preprocessing method  
+- An evaluation metric  
+- An ethical framework  
+
+Clearly explain **how** the experience relates to what we studied in class.
+
+---
+
+## 3. Professional Insight
+
+What did this experience reveal about real-world data science practice?
+
+You may reflect on:
+
+- Workflows and timelines  
+- Collaboration and team structure  
+- Toolchains and infrastructure  
+- Communication with stakeholders  
+- Industry vs. academic approaches  
+- Legal, ethical, financial, or computational constraints  
+
+How did this differ from how data science appears in a classroom setting?
+
+---
+
+## 4. Critical Reflection
+
+Critically analyze the experience:
+
+- What limitations, assumptions, or biases were present?
+- What questions were not addressed that should have been?
+- What would you challenge, investigate further, or redesign?
+
+This section should go beyond summary and demonstrate analytical depth.
+
+---
+
+## 5. Forward Connection
+
+How will this experience influence:
+
+- Your future coursework?
+- Your projects or capstone?
+- Your internship or job goals?
+- Your understanding of data science as a discipline?
+
+What, if anything, changed in how you see data science after this experience?
+
+---
+
+## Evidence Description
+
+Briefly describe the evidence you submitted to verify your participation (e.g., screenshot of attendance, confirmation email, playback timestamp, competition submission, reading log).
+
+---
+
+## Integrity Statement
+
+I affirm that this reflection is written in my own words and reflects my genuine participation in the described data science experience.
+
+**Signature:**  
+**Date:**  
